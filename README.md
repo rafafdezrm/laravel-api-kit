@@ -1,9 +1,9 @@
 # Laravel API Kit
 
-A production-ready, API-only Laravel 12 starter kit following the 2024-2025 REST API ecosystem best practices. No frontend dependencies - purely headless API for mobile apps, SPAs, or microservices.
+A production-ready, API-only Laravel 13 starter kit following the 2025-2026 REST API ecosystem best practices. No frontend dependencies - purely headless API for mobile apps, SPAs, or microservices.
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue)](https://php.net)
-[![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red)](https://laravel.com)
+[![Laravel Version](https://img.shields.io/badge/Laravel-13.x-red)](https://laravel.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Features
